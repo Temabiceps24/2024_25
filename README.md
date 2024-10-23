@@ -7,3 +7,4 @@ Como pueden comenzar las usarios con el proyecto
 Donde pueden recibir ayuda los usarios con tu proyecto
 Quien mantiene y contribuye con el proyecto
 Новая старничка для гандонов у меня все получилось сделать потому что я натурал и не боюсь ипдоров
+# А может ты пидр?
