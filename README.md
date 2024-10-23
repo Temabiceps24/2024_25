@@ -6,3 +6,4 @@ Por que el proyecto es util
 Como pueden comenzar las usarios con el proyecto
 Donde pueden recibir ayuda los usarios con tu proyecto
 Quien mantiene y contribuye con el proyecto
+- main commit
